@@ -22,6 +22,33 @@ This will produce three CSV files in the current directory:
 
 Sample HTML is provided in `data/sample.html` for testing.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Chrome extension: Save Screener HTML
 
 A simple Chrome extension is provided in the `extension` folder. It saves the
